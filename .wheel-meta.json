@@ -1,0 +1,22 @@
+{
+  "wheel_id": 751,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-153",
+  "project": "earthmoving-services-toowoomba-f6afc9debf72dfd74cec1d7e9873b4a8",
+  "parent_t1_ref": "earthmovingtoowoomba-009",
+  "node_role": "buffer",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving services toowoomba",
+  "intended_url": "http://earthmoving-services-toowoomba-f6afc9debf72dfd74cec1d7e9873b4a8.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a8cd3354c163b6af",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/earthmoving-services-toowoomba/",
+      "anchor": "https://sitesau.github.io/earthmoving-services-toowoomba/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
